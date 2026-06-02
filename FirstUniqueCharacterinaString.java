@@ -1,4 +1,5 @@
 public class FirstUniqueCharacterinaString {
+    // Leet code problem no:387
     public int firstUniqChar(String s) {
         int [] count=new int[26];
         for(int i=0;i<s.length();i++){
