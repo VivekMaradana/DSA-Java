@@ -1,4 +1,5 @@
 public class MajorityElement {
+    // leet code problem number: 169
     public int majorityElement(int[] nums) {
         int candidate = 0;
         int count = 0;
